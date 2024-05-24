@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.733,=D:\ProjectsRADStudio\RadStudioDB\sqlite3.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.788,=D:\ProjectsRADStudio\RadStudioDB\sqlite3.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.919,=D:\ProjectsRADStudio\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.890,D:\ProjectsRADStudio\Unit1.cpp=D:\ProjectsRADStudio\RadStudioDB\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.890,D:\ProjectsRADStudio\Unit1.dfm=D:\ProjectsRADStudio\RadStudioDB\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.903,D:\ProjectsRADStudio\Project1.cbproj=D:\ProjectsRADStudio\RadStudioDB\Project.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.906,=D:\ProjectsRADStudio\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.881,D:\ProjectsRADStudio\Project1PCH1.h=D:\ProjectsRADStudio\RadStudioDB\ProjectPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.115,D:\ProjectsRADStudio\RadStudioDB\Project.cbproj=D:\ProjectsRADStudio\RadStudioDB\Project.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.890,D:\ProjectsRADStudio\Unit1.h=D:\ProjectsRADStudio\RadStudioDB\Unit1.h</Transaction>
+  </Transactions>
+</BorlandProject>
